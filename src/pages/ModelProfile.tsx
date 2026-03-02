@@ -374,10 +374,10 @@ const cityModels: Record<string, Record<string, ModelData>> = {
       measurements: '86 – 61 – 89',
       hours: '7PM – 6AM',
       gallery: [
-        'https://pbs.twimg.com/media/HCYKfzqawAEXa3Z?format=jpg&name=4096x4096',
-        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+        'https://pbs.twimg.com/media/HCXd4N9bIAAvMuP?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCXd4OXbkAAq4G1?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCXd4N7aAAEZRcx?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCXd4N-acAIVVoo?format=jpg&name=4096x4096'
       ]
     },
     'Quỳnh Anh': {
