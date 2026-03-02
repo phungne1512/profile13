@@ -607,10 +607,10 @@ const cityModels: Record<string, Record<string, ModelData>> = {
       measurements: '85 – 60 – 88',
       hours: '6PM – 5AM',
       gallery: [
-        'https://pbs.twimg.com/media/HCYLoKGaUAAT6A7?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+        'https://pbs.twimg.com/media/HCYMSd3acAAZGA6?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCYMSeAbcAAlA03?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCYMSd9aUAA1acq?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCYMSeObwAAl1ji?format=jpg&name=large'
       ]
     },
     'Hải Yến': {
