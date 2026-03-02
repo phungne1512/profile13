@@ -395,10 +395,10 @@ const cityModels: Record<string, Record<string, ModelData>> = {
       measurements: '84 – 59 – 87',
       hours: '6PM – 5AM',
       gallery: [
-        'https://pbs.twimg.com/media/HCXQ8pKb0AAjRnD?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+        'https://pbs.twimg.com/media/HCXeJMpa4AA5h_1?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCXeJM0bgAAB67g?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCXeJM4bwAAjWvm?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCXeJMza8AA7I3P?format=jpg&name=4096x4096'
       ]
     },
     'Trà My': {
