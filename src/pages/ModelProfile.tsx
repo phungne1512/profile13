@@ -966,10 +966,10 @@ const cityModels: Record<string, Record<string, ModelData>> = {
       measurements: '87 – 62 – 90',
       hours: '7PM – 6AM',
       gallery: [
-        'https://pbs.twimg.com/media/HCYOXwnaoAAT397?format=jpg&name=4096x4096',
-        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+        'https://pbs.twimg.com/media/HCYQWX5a8AAYXF1?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCYQWX3bkAARM7O?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCYQWX5bsAAWpEp?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCYQWX8bcAAV8rW?format=jpg&name=4096x4096
       ]
     },
     'Ánh Nguyệt': {
