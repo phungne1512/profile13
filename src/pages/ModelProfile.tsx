@@ -209,6 +209,69 @@ const cityModels: Record<string, Record<string, ModelData>> = {
         'https://pbs.twimg.com/media/HCK_4jbb0AAdqAA?format=jpg&name=medium',
         'https://pbs.twimg.com/media/HCK_4jdaMAIvVYE?format=jpg&name=medium'
       ]
+    },
+    'Thu Hà': {
+      name: 'Thu Hà',
+      age: 22,
+      city: 'Hồ Chí Minh',
+      district: 'Quận 1, TP.HCM',
+      price: 14.5,
+      height: 164,
+      weight: 49,
+      views: 168.2,
+      bio: '"Em là một cô gái dễ thương, luôn sẵn sàng mang lại những khoảnh khắc đáng nhớ."',
+      tags: ['Dễ thương', 'Nhiệt tình', 'Chiều chuộng'],
+      vip: true,
+      measurements: '85 – 60 – 88',
+      hours: '7PM – 5AM',
+      gallery: [
+        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-gawAA6HhO?format=jpg&name=large'
+      ]
+    },
+    'Minh Thư': {
+      name: 'Minh Thư',
+      age: 20,
+      city: 'Hồ Chí Minh',
+      district: 'Quận 3, TP.HCM',
+      price: 12,
+      height: 161,
+      weight: 48,
+      views: 155.8,
+      bio: '"Em trẻ, xinh đẹp và rất thích những cuộc hẹn lãng mạn và ấm áp."',
+      tags: ['Trẻ trung', 'Lãng mạn', 'Dễ thương'],
+      vip: true,
+      measurements: '83 – 58 – 86',
+      hours: '6PM – 4AM',
+      gallery: [
+        'https://pbs.twimg.com/media/HCK-MlwaYAAi1lD?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK-MlsagAAnabz?format=jpg&name=medium',
+        'https://pbs.twimg.com/media/HCK-Mlza8AAwHkD?format=jpg&name=medium',
+        'https://pbs.twimg.com/media/HCK-MlpbUAAXWbq?format=jpg&name=medium'
+      ]
+    },
+    'Hồng Ngọc': {
+      name: 'Hồng Ngọc',
+      age: 21,
+      city: 'Hồ Chí Minh',
+      district: 'Quận 10, TP.HCM',
+      price: 13,
+      height: 162,
+      weight: 50,
+      views: 149.5,
+      bio: '"Em quyến rũ, đầy sắc thái và biết cách khiến bạn cảm thấy đặc biệt."',
+      tags: ['Quyến rũ', 'Chiều chuộng', 'Sự kiện'],
+      vip: true,
+      measurements: '84 – 59 – 87',
+      hours: '7PM – 5AM',
+      gallery: [
+        'https://pbs.twimg.com/media/HCK-V3VakAA1w36?format=jpg&name=medium',
+        'https://pbs.twimg.com/media/HCK-V3ZaYAAtWPt?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK-V3bbMAA76K_?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK-V3TbcAAZ0No?format=jpg&name=large'
+      ]
     }
   },
   hn: {
@@ -268,6 +331,195 @@ const cityModels: Record<string, Record<string, ModelData>> = {
       vip: true,
       measurements: '82 – 58 – 85',
       hours: '8PM – 6AM',
+      gallery: [
+        'https://pbs.twimg.com/media/HCXQ8pKb0AAjRnD?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+      ]
+    },
+    'Thanh Hà': {
+      name: 'Thanh Hà',
+      age: 22,
+      city: 'Hà Nội',
+      district: 'Hoàn Kiếm, Hà Nội',
+      price: 14,
+      height: 163,
+      weight: 50,
+      views: 162.4,
+      bio: '"Em dịu dàng, biết cách chăm sóc và mang lại sự thoải mái cho bạn."',
+      tags: ['Dịu dàng', 'Tình cảm', 'Chiều chuộng'],
+      vip: true,
+      measurements: '85 – 60 – 88',
+      hours: '7PM – 5AM',
+      gallery: [
+        'https://pbs.twimg.com/media/HCXQeYlaAAAZlRl?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCLANcNaAAEeOkJ?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCLANcPaEAAFUu4?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCLANcQbMAECt8L?format=jpg&name=medium'
+      ]
+    },
+    'Bích Phương': {
+      name: 'Bích Phương',
+      age: 23,
+      city: 'Hà Nội',
+      district: 'Ba Đình, Hà Nội',
+      price: 15,
+      height: 166,
+      weight: 52,
+      views: 171.3,
+      bio: '"Em sang trọng, quyến rũ và luôn biết cách tạo ấn tượng đầu tiên tuyệt vời."',
+      tags: ['Sang trọng', 'Quyến rũ', 'Sự kiện'],
+      vip: true,
+      measurements: '86 – 61 – 89',
+      hours: '7PM – 6AM',
+      gallery: [
+        'https://pbs.twimg.com/media/HCYKfzqawAEXa3Z?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+      ]
+    },
+    'Quỳnh Anh': {
+      name: 'Quỳnh Anh',
+      age: 21,
+      city: 'Hà Nội',
+      district: 'Cầu Giấy, Hà Nội',
+      price: 13,
+      height: 162,
+      weight: 49,
+      views: 155.7,
+      bio: '"Em vui vẻ, năng động và luôn mang lại những khoảnh khắc vui tươi."',
+      tags: ['Vui vẻ', 'Năng động', 'Thân thiện'],
+      vip: false,
+      measurements: '84 – 59 – 87',
+      hours: '6PM – 5AM',
+      gallery: [
+        'https://pbs.twimg.com/media/HCXQ8pKb0AAjRnD?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+      ]
+    },
+    'Trà My': {
+      name: 'Trà My',
+      age: 20,
+      city: 'Hà Nội',
+      district: 'Hoàn Kiếm, Hà Nội',
+      price: 11.5,
+      height: 160,
+      weight: 47,
+      views: 148.2,
+      bio: '"Em trẻ, xinh đẹp với vẻ dịu dàng và tình cảm sâu sắc."',
+      tags: ['Dịu dàng', 'Tình cảm', 'Lãng mạn'],
+      vip: true,
+      measurements: '83 – 58 – 86',
+      hours: '7PM – 5AM',
+      gallery: [
+        'https://pbs.twimg.com/media/HCYKfzqawAEXa3Z?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+      ]
+    },
+    'Hải Yến': {
+      name: 'Hải Yến',
+      age: 24,
+      city: 'Hà Nội',
+      district: 'Ba Đình, Hà Nội',
+      price: 16,
+      height: 167,
+      weight: 53,
+      views: 175.1,
+      bio: '"Em là một cô gái chín chắn, biết cách chăm sóc và tạo cảm giác an toàn cho bạn."',
+      tags: ['Chín chắn', 'Tình cảm', 'Lãng mạn'],
+      vip: true,
+      measurements: '87 – 62 – 90',
+      hours: '7PM – 6AM',
+      gallery: [
+        'https://pbs.twimg.com/media/HCXQeYlaAAAZlRl?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCLANcNaAAEeOkJ?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCLANcPaEAAFUu4?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCLANcQbMAECt8L?format=jpg&name=medium'
+      ]
+    },
+    'Vân Anh': {
+      name: 'Vân Anh',
+      age: 22,
+      city: 'Hà Nội',
+      district: 'Cầu Giấy, Hà Nội',
+      price: 13.5,
+      height: 164,
+      weight: 50,
+      views: 159.8,
+      bio: '"Em yêu thích những buổi hẹn lãng mạn và các hoạt động ngoài trời."',
+      tags: ['Lãng mạn', 'Năng động', 'Du lịch'],
+      vip: true,
+      measurements: '85 – 60 – 88',
+      hours: '6PM – 5AM',
+      gallery: [
+        'https://pbs.twimg.com/media/HCXQ8pKb0AAjRnD?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+      ]
+    },
+    'Phương Linh': {
+      name: 'Phương Linh',
+      age: 21,
+      city: 'Hà Nội',
+      district: 'Hoàn Kiếm, Hà Nội',
+      price: 12.5,
+      height: 161,
+      weight: 49,
+      views: 151.4,
+      bio: '"Em dễ thương, luôn mang lại sự tươi sáng và vui vẻ cho những ai xung quanh."',
+      tags: ['Dễ thương', 'Vui vẻ', 'Thân thiện'],
+      vip: true,
+      measurements: '84 – 59 – 87',
+      hours: '7PM – 5AM',
+      gallery: [
+        'https://pbs.twimg.com/media/HCYKfzqawAEXa3Z?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+      ]
+    },
+    'Thúy Nga': {
+      name: 'Thúy Nga',
+      age: 23,
+      city: 'Hà Nội',
+      district: 'Ba Đình, Hà Nội',
+      price: 14.5,
+      height: 165,
+      weight: 51,
+      views: 163.6,
+      bio: '"Em là một cô gái tính cảm, biết cách lắng nghe và chia sẻ những cảm xúc chân thành."',
+      tags: ['Tính cảm', 'Lắng nghe', 'Lãng mạn'],
+      vip: true,
+      measurements: '86 – 61 – 89',
+      hours: '7PM – 6AM',
+      gallery: [
+        'https://pbs.twimg.com/media/HCXQeYlaAAAZlRl?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCLANcNaAAEeOkJ?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCLANcPaEAAFUu4?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCLANcQbMAECt8L?format=jpg&name=medium'
+      ]
+    },
+    'Mỹ Duyên': {
+      name: 'Mỹ Duyên',
+      age: 20,
+      city: 'Hà Nội',
+      district: 'Cầu Giấy, Hà Nội',
+      price: 11,
+      height: 159,
+      weight: 47,
+      views: 144.9,
+      bio: '"Em trẻ, xinh đẹp và rất thích những cuộc phiêu lưu mới mẻ."',
+      tags: ['Trẻ trung', 'Năng động', 'Dễ thương'],
+      vip: false,
+      measurements: '82 – 57 – 85',
+      hours: '8PM – 4AM',
       gallery: [
         'https://pbs.twimg.com/media/HCXQ8pKb0AAjRnD?format=jpg&name=large',
         'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
@@ -339,6 +591,195 @@ const cityModels: Record<string, Record<string, ModelData>> = {
         'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
         'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
       ]
+    },
+    'Bảo Ngọc': {
+      name: 'Bảo Ngọc',
+      age: 22,
+      city: 'Đà Nẵng',
+      district: 'Hải Châu, Đà Nẵng',
+      price: 13.5,
+      height: 162,
+      weight: 50,
+      views: 157.2,
+      bio: '"Em dễ thương, nhiệt tình và luôn sẵn sàng mang lại sự hài lòng cho bạn."',
+      tags: ['Dễ thương', 'Nhiệt tình', 'Chiều chuộng'],
+      vip: true,
+      measurements: '85 – 60 – 88',
+      hours: '6PM – 5AM',
+      gallery: [
+        'https://pbs.twimg.com/media/HCYLoKGaUAAT6A7?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+      ]
+    },
+    'Hải Yến': {
+      name: 'Hải Yến',
+      age: 21,
+      city: 'Đà Nẵng',
+      district: 'Thanh Khê, Đà Nẵng',
+      price: 12,
+      height: 161,
+      weight: 48,
+      views: 149.6,
+      bio: '"Em vui vẻ, năng động và thích những trải nghiệm ngoài trời."',
+      tags: ['Vui vẻ', 'Năng động', 'Ngoài trời'],
+      vip: false,
+      measurements: '83 – 58 – 86',
+      hours: '7PM – 5AM',
+      gallery: [
+        'https://pbs.twimg.com/media/HCYL8goakAEdzSB?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+      ]
+    },
+    'Khánh Phương': {
+      name: 'Khánh Phương',
+      age: 23,
+      city: 'Đà Nẵng',
+      district: 'Sơn Trà, Đà Nẵng',
+      price: 14,
+      height: 164,
+      weight: 51,
+      views: 161.3,
+      bio: '"Em thanh lịch, tính cảm và biết cách tạo ra những khoảnh khắc lãng mạn."',
+      tags: ['Thanh lịch', 'Tính cảm', 'Lãng mạn'],
+      vip: true,
+      measurements: '86 – 61 – 89',
+      hours: '7PM – 6AM',
+      gallery: [
+        'https://pbs.twimg.com/media/HCYMKKcaIAAF6LI?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+      ]
+    },
+    'Hà Phương': {
+      name: 'Hà Phương',
+      age: 24,
+      city: 'Đà Nẵng',
+      district: 'Hải Châu, Đà Nẵng',
+      price: 15.5,
+      height: 166,
+      weight: 53,
+      views: 168.9,
+      bio: '"Em chín chắn, sang trọng và biết cách chăm sóc bạn một cách chu đáo."',
+      tags: ['Chín chắn', 'Sang trọng', 'Chu đáo'],
+      vip: true,
+      measurements: '87 – 62 – 90',
+      hours: '7PM – 6AM',
+      gallery: [
+        'https://pbs.twimg.com/media/HCYLoKGaUAAT6A7?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+      ]
+    },
+    'Kim Ngân': {
+      name: 'Kim Ngân',
+      age: 20,
+      city: 'Đà Nẵng',
+      district: 'Thanh Khê, Đà Nẵng',
+      price: 11.5,
+      height: 160,
+      weight: 47,
+      views: 143.7,
+      bio: '"Em trẻ, xinh đẹp và rất thích các hoạt động vui vẻ."',
+      tags: ['Trẻ trung', 'Dễ thương', 'Vui vẻ'],
+      vip: true,
+      measurements: '82 – 57 – 85',
+      hours: '8PM – 4AM',
+      gallery: [
+        'https://pbs.twimg.com/media/HCYL8goakAEdzSB?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+      ]
+    },
+    'Tuyết Mai': {
+      name: 'Tuyết Mai',
+      age: 25,
+      city: 'Đà Nẵng',
+      district: 'Sơn Trà, Đà Nẵng',
+      price: 16.5,
+      height: 168,
+      weight: 54,
+      views: 176.4,
+      bio: '"Em là một cô gái chín chắn, sang trọng và biết cách tạo cảm giác an toàn tuyệt vời."',
+      tags: ['Chín chắn', 'Sang trọng', 'Lãng mạn'],
+      vip: true,
+      measurements: '88 – 63 – 91',
+      hours: '8PM – 6AM',
+      gallery: [
+        'https://pbs.twimg.com/media/HCYMKKcaIAAF6LI?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+      ]
+    },
+    'Linh Chi': {
+      name: 'Linh Chi',
+      age: 22,
+      city: 'Đà Nẵng',
+      district: 'Hải Châu, Đà Nẵng',
+      price: 13,
+      height: 163,
+      weight: 49,
+      views: 150.8,
+      bio: '"Em dịu dàng, tính cảm và luôn mang lại những cảm xúc chân thành."',
+      tags: ['Dịu dàng', 'Tính cảm', 'Chiều chuộng'],
+      vip: true,
+      measurements: '84 – 59 – 87',
+      hours: '6PM – 5AM',
+      gallery: [
+        'https://pbs.twimg.com/media/HCYLoKGaUAAT6A7?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+      ]
+    },
+    'Nhã Uyên': {
+      name: 'Nhã Uyên',
+      age: 21,
+      city: 'Đà Nẵng',
+      district: 'Thanh Khê, Đà Nẵng',
+      price: 12.5,
+      height: 162,
+      weight: 48,
+      views: 147.2,
+      bio: '"Em yêu thích thời trang, làm đẹp và luôn muốn trở nên ấn tượng nhất."',
+      tags: ['Thời trang', 'Thẩm mỹ', 'Tự tin'],
+      vip: false,
+      measurements: '84 – 59 – 87',
+      hours: '7PM – 5AM',
+      gallery: [
+        'https://pbs.twimg.com/media/HCYL8goakAEdzSB?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+      ]
+    },
+    'Phúc An': {
+      name: 'Phúc An',
+      age: 23,
+      city: 'Đà Nẵng',
+      district: 'Sơn Trà, Đà Nẵng',
+      price: 14.5,
+      height: 165,
+      weight: 51,
+      views: 162.5,
+      bio: '"Em là một cô gái tĩnh tại, chu đáo và biết cách chăm sóc người mình yêu."',
+      tags: ['Tĩnh tại', 'Chu đáo', 'Tình cảm'],
+      vip: true,
+      measurements: '86 – 61 – 89',
+      hours: '7PM – 6AM',
+      gallery: [
+        'https://pbs.twimg.com/media/HCYMKKcaIAAF6LI?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+      ]
     }
   },
   nt: {
@@ -400,6 +841,195 @@ const cityModels: Record<string, Record<string, ModelData>> = {
       hours: '7PM – 5AM',
       gallery: [
         'https://pbs.twimg.com/media/HCYOmMYbkAABZzR?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+      ]
+    },
+    'Minh Châu': {
+      name: 'Minh Châu',
+      age: 22,
+      city: 'Nha Trang',
+      district: 'Lộc Thọ, Nha Trang',
+      price: 13.5,
+      height: 163,
+      weight: 49,
+      views: 154.3,
+      bio: '"Em dễ thương, nhiệt tình và luôn sẵn sàng mang lại những khoảnh khắc đáng nhớ."',
+      tags: ['Dễ thương', 'Nhiệt tình', 'Chiều chuộng'],
+      vip: true,
+      measurements: '85 – 60 – 88',
+      hours: '7PM – 5AM',
+      gallery: [
+        'https://pbs.twimg.com/media/HCYOQW6bYAAm6og?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+      ]
+    },
+    'Lan Phương': {
+      name: 'Lan Phương',
+      age: 24,
+      city: 'Nha Trang',
+      district: 'Phương Sài, Nha Trang',
+      price: 15,
+      height: 166,
+      weight: 52,
+      views: 170.2,
+      bio: '"Em chín chắn, sang trọng và biết cách tạo ấn tượng sâu sắc cho mọi người."',
+      tags: ['Chín chắn', 'Sang trọng', 'Lãng mạn'],
+      vip: true,
+      measurements: '86 – 61 – 89',
+      hours: '7PM – 6AM',
+      gallery: [
+        'https://pbs.twimg.com/media/HCYOXwnaoAAT397?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+      ]
+    },
+    'Nhã Di': {
+      name: 'Nhã Di',
+      age: 20,
+      city: 'Nha Trang',
+      district: 'Lộc Thọ, Nha Trang',
+      price: 11,
+      height: 160,
+      weight: 47,
+      views: 141.5,
+      bio: '"Em trẻ, xinh đẹp và rất yêu thích những trải nghiệm mới mẻ."',
+      tags: ['Trẻ trung', 'Năng động', 'Dễ thương'],
+      vip: false,
+      measurements: '82 – 57 – 85',
+      hours: '8PM – 4AM',
+      gallery: [
+        'https://pbs.twimg.com/media/HCYOQXwnaoAAT397?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+      ]
+    },
+    'Quỳnh Như': {
+      name: 'Quỳnh Như',
+      age: 23,
+      city: 'Nha Trang',
+      district: 'Phương Sơn, Nha Trang',
+      price: 14,
+      height: 164,
+      weight: 50,
+      views: 159.7,
+      bio: '"Em dịu dàng, tính cảm và biết cách mang lại sự yên bình cho bạn."',
+      tags: ['Dịu dàng', 'Tính cảm', 'Lãng mạn'],
+      vip: true,
+      measurements: '85 – 60 – 88',
+      hours: '7PM – 5AM',
+      gallery: [
+        'https://pbs.twimg.com/media/HCYOmMYbkAABZzR?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+      ]
+    },
+    'Hồng Loan': {
+      name: 'Hồng Loan',
+      age: 21,
+      city: 'Nha Trang',
+      district: 'Lộc Thọ, Nha Trang',
+      price: 12.5,
+      height: 162,
+      weight: 49,
+      views: 150.4,
+      bio: '"Em vui vẻ, năng động và luôn mang lại những khoảnh khắc vui tươi."',
+      tags: ['Vui vẻ', 'Năng động', 'Thân thiện'],
+      vip: true,
+      measurements: '84 – 59 – 87',
+      hours: '6PM – 5AM',
+      gallery: [
+        'https://pbs.twimg.com/media/HCYOQW6bYAAm6og?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+      ]
+    },
+    'Bảo Trân': {
+      name: 'Bảo Trân',
+      age: 25,
+      city: 'Nha Trang',
+      district: 'Phương Sài, Nha Trang',
+      price: 16,
+      height: 167,
+      weight: 53,
+      views: 174.6,
+      bio: '"Em là một cô gái chín chắn, biết cách chăm sóc và tạo cảm giác an toàn tuyệt vời."',
+      tags: ['Chín chắn', 'Chu đáo', 'Lãng mạn'],
+      vip: true,
+      measurements: '87 – 62 – 90',
+      hours: '7PM – 6AM',
+      gallery: [
+        'https://pbs.twimg.com/media/HCYOXwnaoAAT397?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+      ]
+    },
+    'Ánh Nguyệt': {
+      name: 'Ánh Nguyệt',
+      age: 22,
+      city: 'Nha Trang',
+      district: 'Phương Sơn, Nha Trang',
+      price: 13,
+      height: 161,
+      weight: 48,
+      views: 146.9,
+      bio: '"Em lãng mạn, tính cảm và yêu thích những buổi tối duyên dáng."',
+      tags: ['Lãng mạn', 'Tính cảm', 'Chiều chuộng'],
+      vip: true,
+      measurements: '83 – 58 – 86',
+      hours: '7PM – 5AM',
+      gallery: [
+        'https://pbs.twimg.com/media/HCYOmMYbkAABZzR?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+      ]
+    },
+    'Kim Anh': {
+      name: 'Kim Anh',
+      age: 20,
+      city: 'Nha Trang',
+      district: 'Lộc Thọ, Nha Trang',
+      price: 10.5,
+      height: 159,
+      weight: 46,
+      views: 138.2,
+      bio: '"Em trẻ, xinh đẹp và rất thích các hoạt động vui vẻ ngoài trời."',
+      tags: ['Trẻ trung', 'Dễ thương', 'Năng động'],
+      vip: false,
+      measurements: '81 – 56 – 84',
+      hours: '8PM – 4AM',
+      gallery: [
+        'https://pbs.twimg.com/media/HCYOQXwnaoAAT397?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+      ]
+    },
+    'Thùy Dương': {
+      name: 'Thùy Dương',
+      age: 23,
+      city: 'Nha Trang',
+      district: 'Phương Sài, Nha Trang',
+      price: 14.5,
+      height: 165,
+      weight: 51,
+      views: 163.8,
+      bio: '"Em thanh lịch, tính cảm và luôn biết cách tạo ra những khoảnh khắc lãng mạn."',
+      tags: ['Thanh lịch', 'Tính cảm', 'Lãng mạn'],
+      vip: true,
+      measurements: '86 – 61 – 89',
+      hours: '7PM – 6AM',
+      gallery: [
+        'https://pbs.twimg.com/media/HCYOXwnaoAAT397?format=jpg&name=4096x4096',
         'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
         'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
         'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
