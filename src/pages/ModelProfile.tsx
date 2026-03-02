@@ -733,10 +733,10 @@ const cityModels: Record<string, Record<string, ModelData>> = {
       measurements: '84 – 59 – 87',
       hours: '6PM – 5AM',
       gallery: [
-        'https://pbs.twimg.com/media/HCYLoKGaUAAT6A7?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+        'https://pbs.twimg.com/media/HCYNrFIakAEumEb?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCYNrFFb0AALn29?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCYNrFNbQAAPtJp?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCYVR6GaoAA5lAl?format=jpg&name=large'
       ]
     },
     'Nhã Uyên': {
