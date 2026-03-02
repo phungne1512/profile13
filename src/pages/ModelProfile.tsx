@@ -500,10 +500,10 @@ const cityModels: Record<string, Record<string, ModelData>> = {
       measurements: '86 – 61 – 89',
       hours: '7PM – 6AM',
       gallery: [
-        'https://pbs.twimg.com/media/HCXQeYlaAAAZlRl?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCLANcNaAAEeOkJ?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCLANcPaEAAFUu4?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCLANcQbMAECt8L?format=jpg&name=medium'
+        'https://pbs.twimg.com/media/HCXe1IpacAAex_N?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCXe1IsagAA7UIz?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCXe1IraIAAdcg0?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCXe1IoboAAY1MT?format=jpg&name=4096x4096'
       ]
     },
     'Mỹ Duyên': {
